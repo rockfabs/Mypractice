@@ -2,7 +2,7 @@
 		controllerName="helloworld.First" xmlns:html="http://www.w3.org/1999/xhtml">
 	<Page title="Title">
 		<content>
-	
+	<Text text="Hello World"></Text>
 		</content>
 	</Page>
 </core:View>
